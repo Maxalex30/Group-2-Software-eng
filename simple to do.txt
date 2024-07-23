@@ -1,0 +1,9 @@
+Here is a very simple way to get to the phpMyAdmin (the database):
+1) download  xampp
+2) unzip file on icollege
+3) follow this path:  C:\xampp\htdocs
+4) inside there create the folder Taskmanager
+5) then simply dump all of the GitHub code there
+6) go into xampp and start apache and MySql
+7) go into config.php (open in vs code) and click the link: http://localhost/taskmanager/  or go to : http://localhost/phpmyadmin/
+8) you are there. simple.
